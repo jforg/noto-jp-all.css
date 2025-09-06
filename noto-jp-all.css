@@ -1,0 +1,177 @@
+/*
+  weight: 100
+  name: Thin (Google),
+        ExtraLight (Adobe)
+*/
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 100;
+  src:
+    /* PostScript Name */
+    local('NotoSansJP-Thin'),
+    local('NotoSansCJKjp-Thin'),
+    local('SourceHanSansJP-ExtraLight'),
+    local('SourceHanSans-ExtraLight'),
+    local('SourceHanSansJPVF-ExtraLight'),
+    local('SourceHanSansVF-ExtraLight'),
+    /* Full Name */
+    local('Noto Sans JP Thin'),
+    local('Noto Sans CJK JP Thin'),
+    local('Source Han Sans JP ExtraLight'),
+    local('Source Han Sans ExtraLight'),
+    local('Source Han Sans JP VF ExtraLight'),
+    local('Source Han Sans VF ExtraLight');
+}
+
+/*
+  weight: 300
+  name: Light (Google, Adobe)
+*/
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 300;
+  src:
+    /* PostScript Name */
+    local('NotoSansJP-Light'),
+    local('NotoSansCJKjp-Light'),
+    local('SourceHanSansJP-Light'),
+    local('SourceHanSans-Light'),
+    local('SourceHanSansJPVF-Light'),
+    local('SourceHanSansVF-Light'),
+    /* Full Name */
+    local('Noto Sans JP Light'),
+    local('Noto Sans CJK JP Light'),
+    local('Source Han Sans JP Light'),
+    local('Source Han Sans Light'),
+    local('Source Han Sans JP VF Light'),
+    local('Source Han Sans VF Light');
+}
+
+/*
+  weight: 350
+  name: DemiLight (Google),
+        Normal (Adobe)
+*/
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 350;
+  src:
+    /* PostScript Name */
+    local('NotoSansJP-DemiLight'),
+    local('NotoSansCJKjp-DemiLight'),
+    local('SourceHanSansJP-Normal'),
+    local('SourceHanSans-Normal'),
+    local('SourceHanSansJPVF-Normal'),
+    local('SourceHanSansVF-Normal'),
+    /* Full Name */
+    local('Noto Sans JP DemiLight'),
+    local('Noto Sans CJK JP DemiLight'),
+    local('Source Han Sans JP Normal'),
+    local('Source Han Sans Normal'),
+    local('Source Han Sans JP VF Normal'),
+    local('Source Han Sans VF Normal');
+}
+
+/*
+  weight: 400
+  name: Regular (Google, Adobe)
+*/
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 400;
+  src:
+    /* PostScript Name */
+    local('NotoSansJP-Regular'),
+    local('NotoSansCJKjp-Regular'),
+    local('SourceHanSansJP-Regular'),
+    local('SourceHanSans-Regular'),
+    local('SourceHanSansJPVF-Regular'),
+    local('SourceHanSansVF-Regular'),
+    /* Full Name */
+    local('Noto Sans JP Regular'),
+    local('Noto Sans CJK JP Regular'),
+    local('Source Han Sans JP Regular'),
+    local('Source Han Sans Regular'),
+    local('Source Han Sans JP VF Regular'),
+    local('Source Han Sans VF Regular');
+}
+
+/*
+  weight: 500
+  name: Medium (Google, Adobe)
+*/
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 500;
+  src:
+    /* PostScript Name */
+    local('NotoSansJP-Medium'),
+    local('NotoSansCJKjp-Medium'),
+    local('SourceHanSansJP-Medium'),
+    local('SourceHanSans-Medium'),
+    local('SourceHanSansJPVF-Medium'),
+    local('SourceHanSansVF-Medium'),
+    /* Full Name */
+    local('Noto Sans JP Medium'),
+    local('Noto Sans CJK JP Medium'),
+    local('Source Han Sans JP Medium'),
+    local('Source Han Sans Medium'),
+    local('Source Han Sans JP VF Medium'),
+    local('Source Han Sans VF Medium');
+}
+
+/*
+  weight: 700
+  name: Bold (Google, Adobe)
+*/
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 700;
+  src:
+    /* PostScript Name */
+    local('NotoSansJP-Bold'),
+    local('NotoSansCJKjp-Bold'),
+    local('SourceHanSansJP-Bold'),
+    local('SourceHanSans-Bold'),
+    local('SourceHanSansJPVF-Bold'),
+    local('SourceHanSansVF-Bold'),
+    /* Full Name */
+    local('Noto Sans JP Bold'),
+    local('Noto Sans CJK JP Bold'),
+    local('Source Han Sans JP Bold'),
+    local('Source Han Sans Bold'),
+    local('Source Han Sans JP VF Bold'),
+    local('Source Han Sans VF Bold');
+}
+
+/*
+  weight: 900
+  name: Black (Google),
+        Heavy (Adobe)
+*/
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 900;
+  src:
+    /* PostScript Name */
+    local('NotoSansJP-Black'),
+    local('NotoSansCJKjp-Black'),
+    local('SourceHanSansJP-Heavy'),
+    local('SourceHanSans-Heavy'),
+    local('SourceHanSansJPVF-Heavy'),
+    local('SourceHanSansVF-Heavy'),
+    /* Full Name */
+    local('Noto Sans JP Black'),
+    local('Noto Sans CJK JP Black'),
+    local('Source Han Sans JP Heavy'),
+    local('Source Han Sans Heavy'),
+    local('Source Han Sans JP VF Heavy'),
+    local('Source Han Sans VF Heavy');
+}

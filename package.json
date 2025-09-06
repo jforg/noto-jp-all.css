@@ -1,0 +1,27 @@
+{
+  "name": "@jforg/noto-jp-all.css",
+  "version": "0.1.0",
+  "description": "(later)",
+  "author": "Jeffrey Francesco (https://jeffreyfrancesco.org/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jforg/noto-jp-all.css.git"
+  },
+  "homepage": "https://github.com/jforg/noto-jp-all.css#readme",
+  "bugs": {
+    "url": "https://github.com/jforg/noto-jp-all.css/issues"
+  },
+  "main": "noto-jp-all.css",
+  "style": "noto-jp-all.css",
+  "scripts": {
+    "test": "echo \"No test.\""
+  },
+  "keywords": [
+    "css",
+    "fonts",
+    "noto-sans-japanese",
+    "noto-sans-jp",
+    "noto-sans-cjk-jp"
+  ],
+  "license": "CC0-1.0"
+}
